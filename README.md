@@ -79,8 +79,9 @@ _A detailed walkthrough of the secure user login process, demonstrating error ha
 
 ### ▶️ **Attendance History**
 _Accessing the users attendance upto one year prior._
-![AttendanceHistory](https://github.com/user-attachments/assets/5ce2f113-d84d-4017-9695-57c75696a9e5)
 ![Screenshot (204)](https://github.com/user-attachments/assets/7c839426-3460-4c87-9d14-7cea6eeb69c9)
+![AttendanceHistory](https://github.com/user-attachments/assets/5ce2f113-d84d-4017-9695-57c75696a9e5)
+
 
 
 ### ▶️ **Check-In/Out Process**
