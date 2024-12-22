@@ -72,15 +72,16 @@ Welcome to the **GEOTRACK-Geolocation-Based Attendance Tracking and Management S
 
 ### ▶️ **Login Screen Walkthrough**
 _A detailed walkthrough of the secure user login process, demonstrating error handling and seamless access._
+
 ![LockScreen](https://github.com/user-attachments/assets/029d5c31-4f3e-4352-8aad-f65f91f07226)
+
 ![LoginScreen](https://github.com/user-attachments/assets/ae10dcd9-0973-4426-86ed-faed88c66caf)
 
 ### ▶️ **Attendance History**
 _Accessing the users attendance upto one year prior._
 ![AttendanceHistory](https://github.com/user-attachments/assets/5ce2f113-d84d-4017-9695-57c75696a9e5)
-![Screenshot (203)](https:![Screenshot (204)](https://github.com/user-attachments/assets/7c839426-3460-4c87-9d14-7cea6eeb69c9)
-//github.com/user-attachments/assets/bfca903d-f031-443e-b8ce-68e7ecf7926e)
-![Uploading Screenshot (204).png…]()
+![Screenshot (204)](https://github.com/user-attachments/assets/7c839426-3460-4c87-9d14-7cea6eeb69c9)
+
 
 ### ▶️ **Check-In/Out Process**
 _Showcasing how employees can mark their attendance based on real-time geolocation validation._
