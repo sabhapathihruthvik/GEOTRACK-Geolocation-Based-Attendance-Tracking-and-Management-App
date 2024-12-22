@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA3EMCKU8yr1CJtTEWJrFV_87zLLNaNY0Q',
-    appId: '1:30534150514:android:0d974a5a3b5971788715eb',
-    messagingSenderId: '30534150514',
-    projectId: 'attendance-tracking-syst-8e60a',
-    storageBucket: 'attendance-tracking-syst-8e60a.firebasestorage.app',
+    apiKey: '',
+    appId: ',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDqACjAX3q-1BvomiTU_JdmZdXa-yKz3Iw',
-    appId: '1:30534150514:ios:1911518d31463ae28715eb',
-    messagingSenderId: '30534150514',
-    projectId: 'attendance-tracking-syst-8e60a',
-    storageBucket: 'attendance-tracking-syst-8e60a.firebasestorage.app',
-    iosClientId: '30534150514-9it9u8epv3pav4onpks6d2kupe54st1b.apps.googleusercontent.com',
-    iosBundleId: 'com.example.attendanceTrackingSystem',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: 'p',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }
